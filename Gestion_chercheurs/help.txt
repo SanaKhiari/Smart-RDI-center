@@ -1,0 +1,27 @@
+Dynamic discoveries est une application desktop d'un laboratoire de recherche nee le 01 fevrier  2023 par 5 ingenieurs fortement passiones par le devloppement .
+
+Cette application a pour donc but de fournir des renseignements exacts au  tous les changements et avoir tous les chiffres d'affaires et les statistiques 
+d'ou une meilleure gestion d'un laboratoire de recherche  en vue de l'optimiser.
+
+
+Pour faciliter l'usage de l'interface des chercheurs on peut appuier sur :
+
+ctrl+shift+A  --->Ajouter un chercheur
+
+ctrl+shift+D  --->Supprime un chercheur
+
+ctrl+shift+M  --->Modifier un chercheur
+
+ctrl+shift+R  --->Supprimer les champs remplis un chercheur
+
+ctrl+shift+S  --->Generer statistique  
+
+ctrl+shift+P  --->Exporter la liste de chercheurs en pdf
+
+ctrl+shift+T  --->Trier la liste des chercheurs
+
+ctrl+shift+E  --->Envoyer un maill 
+
+ctrl+shift+H  --->Afficher cette documentation
+ctrl+shift+Q  --->Quiter cette interface
+ctrl+shift+A  --->ajouter un chercheur 
