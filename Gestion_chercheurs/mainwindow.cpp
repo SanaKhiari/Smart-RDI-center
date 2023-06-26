@@ -167,8 +167,9 @@ void MainWindow::detectFlamme(){
         // for smtp authentification.
 
         smtp.setUser("sana.khiari@esprit.tn");
-        smtp.setPassword("xxxpekkifbyyijfx");
+        smtp.setPassword("");//password of your email
 
+        
         // Now we create a MimeMessage object. This will be the email.
 
         MimeMessage message;
